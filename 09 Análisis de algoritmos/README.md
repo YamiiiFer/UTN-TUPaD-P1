@@ -26,7 +26,10 @@ El proyecto compara dos algoritmos que resuelven el mismo problema: la suma de l
 - Extensión de Python instalada en VS Code
 
 ### 2. Clonar el repositorio
-git clone ***************************************************
+## Video Tutorial
+
+[![Mirá el video](https://img.youtube.com/vi/TU-ENLACE-AQUÍ/0.jpg)](https://youtu.be/TU-ENLACE-AQUÍ)
+
 
 ## Reflexiones del equipo
 
