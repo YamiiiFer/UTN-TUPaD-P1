@@ -27,8 +27,7 @@ El proyecto compara dos algoritmos que resuelven el mismo problema: la suma de l
 
 ### 2. Clonar el repositorio
 ## Video Tutorial
-
-[Mirá el video](https://youtu.be/4dEM8j3gJY)
+[Ver video del trabajo práctico](https://youtu.be/L4dEM8j3gJY)
 
 ## Reflexiones del equipo
 
